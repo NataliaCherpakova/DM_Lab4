@@ -1,0 +1,61 @@
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\WebGraph.exe.config
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\WebGraph.exe
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\WebGraph.pdb
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\GraphSharp.Controls.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\GraphSharp.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.Drawing.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Data.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Graphviz.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Serialization.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\WPFExtensions.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.pdb
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.Drawing.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Data.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Graphviz.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Serialization.xml
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\Rank.csprojAssemblyReference.cache
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\Rank.Form1.resources
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.Properties.Resources.resources
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\Rank.csproj.GenerateResource.cache
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\Rank.csproj.CopyComplete
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.exe
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.pdb
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\WebGraph.exe.config
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\WebGraph.exe
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\WebGraph.pdb
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\GraphSharp.Controls.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\GraphSharp.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\QuickGraph.Data.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\QuickGraph.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\WPFExtensions.dll
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.xml
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\QuickGraph.xml
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\QuickGraph.Data.xml
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\obj\Debug\Rank.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\obj\Debug\Rank.Form1.resources
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\obj\Debug\WebGraph.Properties.Resources.resources
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\obj\Debug\Rank.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\obj\Debug\Rank.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\obj\Debug\Rank.csproj.CopyComplete
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\obj\Debug\WebGraph.exe
+C:\Users\Zver\Desktop\Data Mining 2021\WebGraph\WebGraph\obj\Debug\WebGraph.pdb

@@ -1,0 +1,61 @@
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\WebGraph.exe.config
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\WebGraph.exe
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\WebGraph.pdb
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\GraphSharp.Controls.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\GraphSharp.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\QuickGraph.Data.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\QuickGraph.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\QuickGraph.Graphviz.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\QuickGraph.Serialization.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\WPFExtensions.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\QuickGraph.xml
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\QuickGraph.Data.xml
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\QuickGraph.Graphviz.xml
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\QuickGraph.Serialization.xml
+D:\Sources\C#\WebGraph\WebGraph\obj\Debug\WebGraph.csprojAssemblyReference.cache
+D:\Sources\C#\WebGraph\WebGraph\obj\Debug\WebGraph.Form1.resources
+D:\Sources\C#\WebGraph\WebGraph\obj\Debug\WebGraph.Properties.Resources.resources
+D:\Sources\C#\WebGraph\WebGraph\obj\Debug\WebGraph.csproj.GenerateResource.cache
+D:\Sources\C#\WebGraph\WebGraph\obj\Debug\WebGraph.csproj.CoreCompileInputs.cache
+D:\Sources\C#\WebGraph\WebGraph\obj\Debug\WebGraph.csproj.CopyComplete
+D:\Sources\C#\WebGraph\WebGraph\obj\Debug\WebGraph.exe
+D:\Sources\C#\WebGraph\WebGraph\obj\Debug\WebGraph.pdb
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.Drawing.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.xml
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.Drawing.xml
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.dll
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.pdb
+D:\Sources\C#\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.xml
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.csprojAssemblyReference.cache
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.Form1.resources
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.Properties.Resources.resources
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.csproj.GenerateResource.cache
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.exe
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.pdb
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\WebGraph.exe.config
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\WebGraph.exe
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\WebGraph.pdb
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\GraphSharp.Controls.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\GraphSharp.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.Drawing.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Data.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Graphviz.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Serialization.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\WPFExtensions.dll
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.pdb
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\HtmlAgilityPack.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.Drawing.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Data.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Graphviz.xml
+D:\Egor\data mining\WebGraph\WebGraph\bin\Debug\QuickGraph.Serialization.xml
+D:\Egor\data mining\WebGraph\WebGraph\obj\Debug\WebGraph.csproj.CopyComplete
